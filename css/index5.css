@@ -1,0 +1,52 @@
+@import url(./index6.css);
+#fifthpage{
+    /* border: 1px solid black; */
+    height: 60vh;
+    background-color: rgb(240, 248, 248);
+}
+#foot{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    width: 90%;
+    margin: 0px auto;
+    /* border: 1px solid black; */
+    position: relative;
+    top: 90px;
+}
+.cntc,.qcklnk,.expbmw,.legal{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 2.5em;
+}
+/* #contact,#legal,#Expbmw,#quicklinks{
+    border: 1px solid black;
+} */
+#contact1,#quick,#exp,#lgl{
+    font-weight: 100;
+}
+#quicklinks{
+    margin-left: 110px;
+}
+#Expbmw{
+    margin-left: 140px;
+    height: 180px;
+}
+#legal{
+    margin-left: 160px;
+    height: 180px;
+}
+#socialicon{
+    /* border: 1px solid black; */
+    position: relative;
+    top: 150px;
+    margin-left: 63px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+    
+}
+
+
+

@@ -1,0 +1,65 @@
+@import url(./index3.css);
+
+#secondpage{
+    height: 65vh;
+    /* border: 1px solid black; */
+}
+#aish{
+    text-align: center;
+    display: inline;
+}
+#icons{
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+    text-align: center;
+    
+}
+#texts{
+    display: flex;
+    justify-content: space-around;
+    height: 40px;
+    text-align: center;
+    
+}
+#links{
+    display: flex;
+    justify-content: space-around;
+    height: 70px;
+    text-align: center;
+    align-items: center;
+}
+.link a{
+    color: black;
+}
+.link {
+    border: 1px solid black;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.link:hover{
+    border: 2px solid black;
+}
+.icon,.text,.link {
+    width: 200px;
+}
+#a2{
+    height: 80px;
+    font-size: 50px;
+    font-weight: 300;
+    margin-bottom: 50px;
+}
+
+#a1{
+    height: 30px;
+    margin: 25px 0px;
+    font-weight: bold;
+}
+#icons i{
+    font-size: 50px;
+}
